@@ -1,6 +1,5 @@
 1- Imagine que você é responsável por criar um programa para gerenciar as informações de um cadastro de clientes de uma loja virtual. Escreva um programa que leia os dados dos clientes (nome, e-mail e telefone) e os armazene em variáveis.
-● O programa deve solicitar ao usuário que insira as informações do cliente e, em
-seguida, exibir os dados do cliente cadastrado na tela.
+● O programa deve solicitar ao usuário que insira as informações do cliente e, em seguida, exibir os dados do cliente cadastrado na tela.
 
 nome=input("insira seu nome")
 email=input("insira seu e-mail")
@@ -15,9 +14,7 @@ Escreva um código em Python que:
 ● Imprima na tela a mensagem: "Parabéns, <nome do usuário>! Seu cadastro foi realizado com sucesso e você ganhou um cupom de desconto de 10% para a sua primeira compra na TecnoPlus."
 ● Solicite ao usuário que informe o valor total de sua compra.
 ● Calcule o valor do desconto que o usuário terá direito.
-● Imprima na tela a mensagem: "O valor total da sua compra é R$ <valor da
-compra>. Com o cupom de desconto, você terá um desconto de R$ <valor do
-desconto>, e o valor final a ser pago será de R$ <valor final>."
+● Imprima na tela a mensagem: "O valor total da sua compra é R$ <valor da compra>. Com o cupom de desconto, você terá um desconto de R$ <valor do desconto>, e o valor final a ser pago será de R$ <valor final>."
 
 nome=input("insira seu nome")
 email=input("insira seu e-mail")
